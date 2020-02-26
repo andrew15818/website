@@ -16,7 +16,7 @@ I've wanted to have my own personal blog-ish type site for a while, both to
 have some sort of personal project and to get some  experience with basic
 web development tools. 
 
-##What will this site contain?
+## What will this site contain?
 
 I'm still thinking what I could write about, but my ideas so far are:
 
