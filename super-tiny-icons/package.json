@@ -1,0 +1,68 @@
+{
+  "_from": "super-tiny-icons",
+  "_id": "super-tiny-icons@0.2.2",
+  "_inBundle": false,
+  "_integrity": "sha512-BwHZJFXQBWHUPC2AwSRE1qaSmV+8DbCsMoPDDiQnYZAhOQwfZgtIsjZv/G2bsoCpKCder82vF50idPV1zcaIKw==",
+  "_location": "/super-tiny-icons",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "super-tiny-icons",
+    "name": "super-tiny-icons",
+    "escapedName": "super-tiny-icons",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/super-tiny-icons/-/super-tiny-icons-0.2.2.tgz",
+  "_shasum": "331b5e2187f3ec0f3366f36b3ac3429233bd7930",
+  "_spec": "super-tiny-icons",
+  "_where": "/home/poncedeleon",
+  "author": {
+    "name": "Terence Eden",
+    "url": "https://shkspr.mobi/blog/"
+  },
+  "bugs": {
+    "url": "https://github.com/edent/SuperTinyIcons/issues"
+  },
+  "bundleDependencies": false,
+  "collective": {
+    "type": "opencollective",
+    "url": "https://opencollective.com/SuperTinyIcons"
+  },
+  "dependencies": {
+    "opencollective-postinstall": "^2.0.2"
+  },
+  "deprecated": false,
+  "description": "Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos",
+  "files": [
+    "images/svg/"
+  ],
+  "homepage": "https://github.com/edent/SuperTinyIcons/",
+  "keywords": [
+    "icons",
+    "svg",
+    "iconset",
+    "logo",
+    "logos",
+    "twitter",
+    "facebook",
+    "svg",
+    "flattr"
+  ],
+  "license": "MIT",
+  "name": "super-tiny-icons",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edent/SuperTinyIcons.git"
+  },
+  "scripts": {
+    "postinstall": "opencollective-postinstall || true"
+  },
+  "version": "0.2.2"
+}

@@ -1,0 +1,73 @@
+*{
+	box-sizing: border-box;
+}
+a  > img{
+	height:32px;
+	width:32px;
+}
+body{
+	font-family: "Inconsolata", "Helvetica", "sans-serif";
+}	
+#siteSection{
+	text-decoration:none;
+}
+#siteSection:hover{
+	color:white;
+	text-decoration:none;
+	cursor:pointer;
+}
+/*categories for the main navbar on top of the screen*/
+#categories-navbar{
+	background-color:#222;
+	font-size:30px;
+}
+.panel-footer .container{
+	background-color:#222;
+
+	padding-top:30px;
+	padding-bottom:35px;
+	
+	color:#ffffff;
+}
+.panel-footer #connect-title{
+		color:#ffffff;
+}
+#Address{
+	float:right;
+	margin:0px;
+	padding:3px;
+}
+@media(min-width:1920px){
+	.container .jumbotron{
+			background:url('../images/titleLarge.jpg') no-repeat;
+			height:1080px;
+	}
+}
+@media (min-width: 1200px) {
+  .container .jumbotron {
+    background: url('../images/title1200.jpg') no-repeat;
+    height: 675px;
+  }
+}
+/********** Medium devices only **********/
+@media (min-width: 992px) and (max-width: 1199px) {
+  /* Home Page */
+  .container .jumbotron {
+    background: url('../images/title992.jpg') no-repeat;
+    height: 558px;
+  }
+}
+@media (min-width:768px) and (max-width:991px){
+	.container .jumbotron{
+		background: url('../images/title768.jpg') no-repeat;
+		height:384px;
+	}
+}
+
+@media (max-width:767px){
+	.container .jumbotron{
+			background: url('../images/title384.jpg')no-repeat;
+			height:216px;
+	}
+}
+
