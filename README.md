@@ -25,3 +25,11 @@ I'm still thinking what I could write about, but my ideas so far are:
 I thought I might share whatever I've been reading recently and offer 
 my opinion. If the writing is bad/unstructured, I'm sorry! I'm trying to
 practice my writing and argument skills.
+
+### Logo
+
+I made my name with the funny colors using [manim](https://github.com/3bib/manim),
+the Python library used by math Youtube channel 
+[3Blue1Brown](https://youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw).
+
+Any suggestions/comments can be sent to andreseeponce@gmail.com
